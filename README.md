@@ -2,7 +2,7 @@
 
 
 # 💫 Hello World! I'm Djordje, a Serbian Full Stack Developer 👋
-🔭 currently working on my own OS<br>
+🔭 Currently working on Upwork as a freelance developer<br>
 👨🏼‍🎓 studying computer science at Faculty of Electronic Engineering<br>
 🚀 co-founder of codesign.rs<br>
 💼 working at Polovni Telefoni<br>
