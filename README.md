@@ -5,8 +5,6 @@
 🔭 currently working on Upwork as a freelance developer<br>
 👨🏼‍🎓 studying computer science at Faculty of Electronic Engineering<br>
 🚀 co-founder of remenex.com<br>
-🚀 co-founder of pirateflow.com<br>
-💼 working at Polovni Telefoni (polovni-telefoni.rs)<br>
 
 # 💻 Tech Stack:
 
